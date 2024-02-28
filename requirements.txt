@@ -32,4 +32,4 @@ coverage==6.3.2
 httpie==3.2.1
 
 # Adding as caused crashed on openshift
-pymongo=4.6.2
+pymongo==4.6.2
